@@ -1,3 +1,3 @@
-### Habitos de Consumo
+### Hábitos de Consumo
 ## 🚧👷 🏗
 ###### En construcción... 
