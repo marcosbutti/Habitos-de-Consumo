@@ -18,6 +18,5 @@ _Análisis de los hábitos en el consumo de los argentinos con datos abiertos de
 
 * 🌾🍞  Ahora filtramos por otras categorías.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/113639622/219272986-e28d36c4-1e63-4204-a88d-2b07c700977b.png">
-  <img src="https://user-images.githubusercontent.com/113639622/219273027-74530080-9ecb-4040-9387-42ae8b29c14c.png">
+  <img src="https://user-images.githubusercontent.com/113639622/219272986-e28d36c4-1e63-4204-a88d-2b07c700977b.png"><img src="https://user-images.githubusercontent.com/113639622/219273027-74530080-9ecb-4040-9387-42ae8b29c14c.png">
 </p>
